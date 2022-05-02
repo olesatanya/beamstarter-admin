@@ -1,0 +1,25 @@
+{
+   
+   "symbols":{
+      "1": "ETH",
+      "3": "ETH",
+      "4": "ETH",
+      "5": "ETH",
+      "6": "ETH",
+      "56": "BNB",
+      "97": "TBB",
+      "250": "FTM",
+      "4002": "FTM" 
+   },
+   "networks":{
+      "1": "Ethereum Mainnet",
+      "3": "Ropsten Testnet",
+      "4": "Rinkeby Testnet",
+      "5": "Goerli Testnet",
+      "6": "kovan Testnet",
+      "56": "Binance Chain Mainnet",
+      "97": "Binance Chain Testnet",
+      "250": "Binance SmartChain",
+      "4002": "Fantom Testnet" 
+   }
+}

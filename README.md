@@ -1,2 +1,4 @@
-# beamstarter-admin
-beamstarter-admin dashboard
+# Beamstarter Launchpad Platform admin
+
+Author : Chenjiejie
+
